@@ -2,36 +2,4 @@
     padding: 0;
     margin: 0;
     font-family: "Fjalla One";
-
-}
-body{
-    background-color: aqua;
-
-}
-form{
-    margin: 5% 5px;
-    background-color: black;
-    padding: 20px;
-    border-radius: 20px;
-
-}
-.reactions_list{
-    background-color: Gray;
-    border-radius: 30px;
-    padding: 5px;
-    list-style: None; 
-    display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-
-}
-.reaction{
-    border: None; 
-    background: None;
-    margin: auto;
-    width: 50%;
-    padding: 10px;
-    align-items: center;
-    align-content: center;
-
 }
